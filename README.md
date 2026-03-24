@@ -119,8 +119,9 @@ I’m open to working on:
 * 🔗 LinkedIn: https://linkedin.com/in/darsha-anuradha
 * 💻 GitHub:
 
-  * https://github.com/darshaanuradha
-  * https://github.com/Anuradhapps
+ * Main Account: [darshaanuradha](https://github.com/darshaanuradha)
+ * Other Projects & Work: [Anuradhapps](https://github.com/Anuradhapps)  
+  > Check out more of my personal and experimental projects here!
 * 🌐 Portfolio: https://anuradhapps.github.io/anuradha.github.io
 
 ---
