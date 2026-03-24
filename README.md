@@ -1,4 +1,4 @@
-# 👋 Hi, I'm G. B. Darsha Anuradha
+# 👋 Hi, I'm G. B. Darsha Anuradha (Main Account)
 
 🚀 **Full-Stack Developer | IT Professional | Problem Solver**
 
